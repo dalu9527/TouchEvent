@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TouchEventAnalyse</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="child_layout">ChildLayout</string>
+    <string name="parent_layout">ParentLayout</string>
+    <string name="dispatch">dispatchTouchEvent 返回值</string>
+    <string name="intercept">onInterceptTouchEvent 返回值</string>
+    <string name="touch">onTouchEvent 返回值</string>
+
+</resources>

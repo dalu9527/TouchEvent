@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main">
+        <item>super</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="parent">
+        <item>super</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="child">
+        <item>super</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+</resources>
